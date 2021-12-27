@@ -13,7 +13,22 @@ My name is Heather Hanna and I'm a Full Stack Developer. I'm from Annapolis, cur
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhanna94&theme=vue-dark" />
+<a href="https://github.com/hhanna94/hhanna94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhanna94&theme=vue-dark" />
+</a>
+<a href="https://github.com/hhanna94/hhanna94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhanna94&theme=vue-dark" />
+</a>
+<a href="https://github.com/hhanna94/python-project-blueprint">
+  <img align="center" src="https://github.com/hhanna94/mechanic_shop&theme=vue-dark" />
+</a>
+<a href="https://github.com/hhanna94/python-project-blueprint">
+  <img align="center" src="https://github.com/hhanna94/TaskMaster&theme=vue-dark" />
+</a>
+<a href="https://github.com/hhanna94/python-project-blueprint">
+  <img align="center" src="https://github.com/hhanna94/BloggerWorld&theme=vue-dark" />
+</a>
+
 
 
 [3]: https://www.linkedin.com/in/heather-hanna-dev/
