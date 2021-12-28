@@ -19,12 +19,6 @@ My name is Heather Hanna and I'm a Full Stack Developer. I'm from Annapolis, cur
 <a href="https://github.com/hhanna94/hhanna94">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhanna94&show_icons=true&line_height=27&count_private=true&theme=vue-dark" />
 </a>
-<a href="https://github.com/hhanna94/TaskMaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhanna94&repo=TaskMaster&theme=vue-dark" />
-</a>
-<a href="https://github.com/hhanna94/BloggerWorld">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhanna94&repo=BloggerWorld&theme=vue-dark" />
-</a>
 
 
 [3]: https://www.linkedin.com/in/heather-hanna-dev/
